@@ -1,0 +1,8 @@
+[package]
+name = "nusblist"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+nusb = "0.1.10"
+env_logger = "0.10.0"
